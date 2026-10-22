@@ -29,7 +29,7 @@ No software installation or Python setup is required. The script automatically r
 2. Copy and paste the code from [Universal_Extractor.py](./extract_strings.py) into a code cell.
 3. Colab will display an interactive **Form UI** on the right side of the screen.
 4. Fill in the fields:
-   * **`PROJECT_NAME`**: Name of your project (e.g., `Strike_Commander`).
+   * **`PROJECT_NAME`**: Name of your project (e.g., `EA Games - Abdul Malik`).
    * **`TARGET_FOLDERS_INPUT`**: Comma-separated list of folder names to scan (e.g., `INTEL, CONV.PAK`).
    * **`INCLUDE_SUBFOLDERS`**: Check this if you have files organized inside nested folders.
    * **`MIN_STRING_LENGTH`**: Standard is `3` or `4` to capture game dialogue and filter out raw hex data.
